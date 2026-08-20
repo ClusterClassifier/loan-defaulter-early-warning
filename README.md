@@ -11,7 +11,7 @@ This project answers one focused question:
  
 > **"What behavioural signs does a borrower show in their bank transactions before missing a loan installment — and can those signs flag them a month in advance?"**
  
-A logistic regression model is trained to score every active loan account monthly, outputting a default risk probability. Accounts crossing a defined threshold are flagged for proactive intervention — restructuring offers, relationship manager outreach, or credit limit adjustment — before the first payment is ever missed.
+A logistic regression model is trained to score every active loan account monthly, outputting a default risk probability. Accounts crossing a defined threshold are flagged for proactive intervention - restructuring offers, relationship manager outreach, or credit limit adjustment - before the first payment is ever missed.
  
 **Stakeholder:** Credit Risk and Collections teams at retail banks and NBFCs.
  
