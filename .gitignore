@@ -1,0 +1,20 @@
+# Raw data — too large, not public
+data/raw/
+*.asc
+*.csv.gz
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# Environment
+.env
+venv/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI temp files
+*.pbix.bak
